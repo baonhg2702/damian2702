@@ -34,7 +34,7 @@ Welcome to my GitHub! I’m a recent graduate with a degree in **Business Admini
 ---
 
 ## 📂 **Projects**  
-1. **[Credit Risk Prediction (Ongoing)](https://github.com/yourusername/credit-risk-model)**  
+1. **[Credit Risk Modeling in Python (Ongoing)](https://github.com/yourusername/credit-risk-model)**  
    - Built a logistic regression model in Python to predict loan defaults using historical bank data.  
    - Tools: `pandas`, `scikit-learn`, `Matplotlib`.  
 
